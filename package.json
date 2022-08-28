@@ -2,7 +2,7 @@
   "name": "elgam3ia-landing-page-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohabelzanati.github.io/mohabelzanati.github.io",
+  "homepage": "https://mohabelzanati.github.io/testing-react",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@material-tailwind/react": "^1.2.3",
