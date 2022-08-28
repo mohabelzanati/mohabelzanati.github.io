@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testing-react/static/css/main.7363fe27.css",
+    "main.js": "/testing-react/static/js/main.ff0e8b60.js",
+    "index.html": "/testing-react/index.html",
+    "static/media/getFetch.cjs": "/testing-react/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.7363fe27.css.map": "/testing-react/static/css/main.7363fe27.css.map",
+    "main.ff0e8b60.js.map": "/testing-react/static/js/main.ff0e8b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7363fe27.css",
+    "static/js/main.ff0e8b60.js"
+  ]
+}
