@@ -2,6 +2,7 @@
   "name": "elgam3ia-landing-page-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mohabelzanati.github.io/mohabelzanati.github.io",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@material-tailwind/react": "^1.2.3",
@@ -14,6 +15,7 @@
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "antd": "^4.22.5",
+    "gh-pages": "^4.0.0",
     "i18next": "^21.9.1",
     "i18next-browser-languagedetector": "^6.1.5",
     "i18next-http-backend": "^1.4.1",
@@ -26,6 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
